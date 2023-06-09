@@ -64,9 +64,9 @@ const jordilop = {
 ***
 
 <div>
-<img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordilop&show_icons=true&locale=en&layout=compact" alt="jordilop" />
-<img height="148em" src="https://github-readme-stats.vercel.app/api?username=jordilop&show_icons=true&locale=en" alt="jordilop" />
-<img height="148em" src="https://github-readme-streak-stats.herokuapp.com/?user=jordilop&" alt="jordilop" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordilop&show_icons=true&locale=en&layout=compact" alt="jordilop" />
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jordilop&show_icons=true&locale=en" alt="jordilop" /> -->
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jordilop&" alt="jordilop" />
 </div>
 
 ***
